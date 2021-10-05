@@ -1,0 +1,12 @@
+body {
+  background-color: orange;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
